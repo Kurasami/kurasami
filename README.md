@@ -1,5 +1,6 @@
 ## Hi 👋
 I am an avid game designer🎮
+
 I have also been a busy biologist👨🏻‍🔬, consultant👨‍💼 and Python🐍 developer🧑‍💻
 
 I was born in a rainforest🌲 and feel more at home there than anywhere else.
